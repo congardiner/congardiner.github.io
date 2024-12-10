@@ -1,86 +1,86 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Conner Gardiner's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Conner Gardiner
+Pre-Professional | Biomedical & Computer Science | BYU-Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gar21051@byui.edu">gar21051@byui.edu</a>
+| <a href="https://www.linkedin.com/in/conner-gardiner/">LinkedIn Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Your life can either be a tragedy of the what could've been, or a Hero's Journey of who you became along the way. 
+
+Either way, the choice is either made by you, or for you. 
+
+So, what will the next series of incremental, daily decisions decide for you?
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Dynamic critical thinking, interpersonal communication, team-building, and making the 'journey' worthwhile one day at a time
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+AWS, Scaling Cloud Databases, Network Engineering, Infastructure & Development, User Experience.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021-Now`
+__Brigham Young University Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2022`
+__Weber State University__
 
 
+`2018`
+__Layton High School__
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`OCT 2023- JUL 2024`
+Collaborated on Figma with clients, showcasing design elements, bringing the vision to life
 
-- Warden
-- Minted coins
+Enhanced SEO, utilizing local reviews, keywords, UX design, and image optimization
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Executed in framework Astro using JavaScript, React, and Tailwind in development stack
+
+Improved organic traffic by 78.8% in Q1 by reconfiguring SEO, media channels, and overhauling site
+
+__Jr Web Developer - Freelance__
+
+`2024`
+Achieved 99.2% data input accuracy, ensuring client account reliability, fostering organic growth
+
+Streamlined communication channels, optimizing collaboration and synergy across departments
+
+Utilized advanced Excel functions to streamline analysis, contributing to overall clientele retention
+
+Performed regular audits of safeguarded accounts, enhancing data integrity and decision making
+
+__Data Processing Analyst - Rocky Mountain Reserve__
+
+
+`2023`
+Led comprehensive site surveys across multiple government facilities, effectively assessing over 300 MDF and IDF closets to capture vital data on network infrastructure and environmental conditions
+
+Diligently recorded details on networking hardware, including model numbers, serial numbers, location, and rack elevations, ensuring accurate and thorough documentation
+
+Examined and documented patch panel configurations, providing precise cable counts and identifying cable types to facilitate infrastructure upgrades
+
+Captured detailed photographs of rooms, equipment racks, and networking components, aiding in future infrastructure planning and assessments
+
+Produced comprehensive reports post-survey, detailing findings and recommendations for future infrastructure improvements and optimizations
+
+Underwent rigorous specialized training for environments with radioactive hazards, ensuring safety and compliance during all survey operations
+
+__Network Survey Specialist - (Government Facilities)__
 
 
 
